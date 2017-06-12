@@ -13,7 +13,8 @@ This codebook is divided into three section:
 3. any transformations or work that I performed to clean up the data  
 
 
-##Descriptions of Variable 
+##Descriptions of Variable   
+
 
 This is Human Activity Recognition Using Smartphones Dataset as a result of experiments carried out with a group of 30 volunteers (hereafter refered as subjects) within an age bracket of 19-48 year. Each subject performed six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) wearing a smartphone (Samsung Galaxy S II) on the waist. 
 
